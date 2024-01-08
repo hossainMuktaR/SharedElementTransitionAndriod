@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SharedElementTransitionAndroid</string>
+    <string name="bird_image">Bird Image</string>
+    <string name="user_name">User Name</string>
 </resources>
